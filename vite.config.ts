@@ -11,5 +11,9 @@ export default defineConfig(() => {
         'Cache-Control': 'public, max-age=600',
       },
     },
+    ssr: {
+      // TODO: workaround until they support native ESM
+      noExternal: ['beercss'],
+    },
   };
 });

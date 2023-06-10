@@ -1,18 +1,16 @@
-# Qwik City App ⚡️
+# MrGhostlyOrb.dev Qwik ⚡️
 
-- [Qwik Docs](https://qwik.builder.io/)
-- [Discord](https://qwik.builder.io/chat)
-- [Qwik GitHub](https://github.com/BuilderIO/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Vite](https://vitejs.dev/)
+- [MrGhostlyOrb.dev](https://www.mrghostlyorb.dev/)
+- [GitHub](https://github.com/mrghostlyorb)
+- [@MrGhostlyOrb](https://twitter.com/mrghostlyorb)
 
 ---
 
 ## Project Structure
 
-This project is using Qwik with [QwikCity](https://qwik.builder.io/qwikcity/overview/). QwikCity is just an extra set of tools on top of Qwik to make it easier to build a full site, including directory-based routing, layouts, and more.
+This project is using Qwik with [QwikCity](https://qwik.builder.io/qwikcity/overview/).
 
-Inside your project, you'll see the following directory structure:
+Inside the project, there is the following directory structure:
 
 ```
 ├── public/
@@ -29,14 +27,6 @@ Inside your project, you'll see the following directory structure:
 - `src/components`: Recommended directory for components.
 
 - `public`: Any static assets, like images, can be placed in the public directory. Please see the [Vite public directory](https://vitejs.dev/guide/assets.html#the-public-directory) for more info.
-
-## Add Integrations and deployment
-
-Use the `npm run qwik add` command to add additional integrations. Some examples of integrations include: Cloudflare, Netlify or Express server, and the [Static Site Generator (SSG)](https://qwik.builder.io/qwikcity/guides/static-site-generation/).
-
-```shell
-npm run qwik add # or `yarn qwik add`
-```
 
 ## Development
 
